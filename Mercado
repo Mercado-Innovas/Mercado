@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exclusive Presale</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .image-container {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>How to Take Your E-commerce Business from 6 to 8 Figures in 3 Months Guaranteed</h1>
+        <p>Would you like to build a business that can cater to your family's wants and needs sustainably?</p>
+        <p>Would you like to have hundreds of customers begging for your product or service?</p>
+        <p>Would you like to increase your return on investment up to triple folds?</p>
+
+        <p>A lot of business owners face the same problem of getting a great ROI. This simply means the business is not realizing a good profit margin or it barely makes any at all, and could be running at a loss.</p>
+        <div class="image-container">
+            <img src="frustrated_man_image.jpg" alt="Frustrated Man Image" style="width: 100%;">
+        </div>
+        
+        <p>This could potentially lead to unpaid loans, bankruptcy, lawsuits, and sometimes depression on the business owner.</p>
+
+        <p>Other problems include low conversation rate and inability to follow market trends. This can prove to be fatal as it could lead to a waste of resources and the business can end up being eaten alive by competitors.</p>
+        <p>Running an e-commerce store is like being a captain of a ship. You need to carefully navigate the waters (the market) to reach your destination. Along the way, you'll face challenges (competition, changing regulations) and opportunities (new technologies, new markets).</p>
+        <p>As the captain, you need to make decisions that will impact the entire ship (your business). You need to consider all of the factors (marketing, operations, finance) that will affect your journey. And, most importantly, you need to keep the crew (your employees and customers) happy and motivated. Otherwise, they may abandon your ship (quit their jobs, stop doing business with you)</p>
+        <p>Just like a ship, your e-commerce store requires constant maintenance and care. You need to ensure that all the parts (website, inventory, customer service) are working smoothly, and that any issue is addressed quickly and efficiently. Otherwise, your ship could sink (your business could fail).</p>
+        <p>You also need to be prepared for the unexpected. Storms (economic downturns, industry disruptions) can arise at any time, and you need to have a plan in place to weather them.</p>
+
+        <p>There's a better way to handle all this. I know you've probably tried a lot of magical and high promising agencies or techniques that have failed you countless times. The problem with these types of services is that they lack well built systems and structures. They might work for a while but are not sustainable and others might not work at all.</p>
+        <p>Here at MERCADO INNOVAS, our service is based on research, proper planning, SWOT analysis, systematic and structured marketing strategies, proven to work for decades now. We offer and innovative and holistic approach to customer conversion, visiting, audience retention, increased ROI and time saving marketing strategies. Here are 3 core things our service does:</p>
+        <ol>
+            <li>We optimize your landing page for maximum customer conversion. This makes every dollar spent on advertising worth it.</li>
+            <li>We build value around your product - it's of no mystery that people have to know the impact of your products on their lives. Building value around your products makes them more desirable to your target audience.</li>
+            <li>We help you increase your product visibility towards your target audience, via Facebook ads and specially niched influencers with an audience consisting of your target audience.</li>
+        </ol>
+
+        <p>We help you save time - marketing is a very time-consuming activity although very worth the time. We take this hectic load off your shoulder and get it done in real time.</p>
+
+        <p>The remaining steps are top secret, but here's how you can get it.</p>
+        <p>We have created a 7 days free program to teach you how to apply these steps yourself and get results. To access this program, sign up for our newsletter.</p>
+
+        <a href="https://bit.ly/mercadoinnovas" class="cta-button">Click here - Gain Access</a>
+    </div>
+</body>
+</html
